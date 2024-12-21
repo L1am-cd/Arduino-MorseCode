@@ -1,4 +1,4 @@
-ToBeAdded Banner
+![Banner](https://github.com/L1am-cd/Arduino-MorseCode/blob/f88e8f5dc8082faa632de6a5e07d58324e0763d6/ReadMeAssets/Banner.png)
 
 `DigitalWriteMorseCode(PIN, "...---...");`
 ![Example ...---...](https://github.com/L1am-cd/Arduino-MorseCode/blob/e0fbc12ef58e1b90bba1ef75c410ee5b24d23e1b/ReadMeAssets/MORSE%20...---....gif)
